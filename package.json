@@ -1,0 +1,12 @@
+{
+  "name": "simulador-apostas-api",
+  "version": "1.0.0",
+  "description": "API do simulador de Monte Carlo para o assistente de IA sobre bets (Projetos III)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED"
+}
